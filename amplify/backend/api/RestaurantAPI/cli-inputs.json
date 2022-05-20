@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "RestaurantAPI",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/home/virtus/xProject/amplify-app/amplify/backend/api/RestaurantAPI/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
